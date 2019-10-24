@@ -1,0 +1,10 @@
+spark-spring/target
+spark-spring/.idea
+spark-spring/.classpath
+spark-spring/.project
+spark-spring/dependency-reduced-pom.xml
+spark-spring/spark-spring.iml
+spark-spring/.settings/org.eclipse.core.resources.prefs
+spark-spring/.settings/org.eclipse.jdt.core.prefs
+spark-spring/.settings/org.eclipse.m2e.core.prefs
+spark-spring/.vscode/settings.json
